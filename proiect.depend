@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1573207770 source:/home/student/proiect/func.c
+	<stdio.h>
+
+1573207787 source:/home/student/proiect/main.c
+	<stdio.h>
+	"func.h"
+
+1573207788 /home/student/proiect/func.h
+
+1575026802 source:/home/student/ProiectC/main.c
+	<stdio.h>
+	"func.h"
+	"alex.h"
+
+1575026502 /home/student/ProiectC/func.h
+
+1575026483 source:/home/student/ProiectC/func.c
+	<stdio.h>
+
+1573210099 source:/home/student/proiect/alex.c
+	<stdio.h>
+
+1575026818 source:/home/student/ProiectC/alex.c
+	<stdio.h>
+
+1574422341 source:/home/student/ProiectC/tania.c
+	<stdio.h>
+
+1573817475 source:/home/student/proiect/ProiectC/alex.c
+	<stdio.h>
+
+1573817891 source:/home/student/proiect/ProiectC/main.c
+	<stdio.h>
+	"func.h"
+	"tania.h"
+	"alex.h"
+
+1573815177 /home/student/proiect/ProiectC/func.h
+
+1573817771 /home/student/proiect/ProiectC/tania.h
+
+1573817485 /home/student/proiect/ProiectC/alex.h
+
+1574422341 /home/student/ProiectC/tania.h
+
+1575026325 /home/student/ProiectC/alex.h
+
+1574423235 source:/home/student/ProiectC/casi.c
+	<stdio.h>
+
