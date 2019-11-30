@@ -36,10 +36,26 @@
 		</Unit>
 		<Unit filename="alex.h" />
 		<Unit filename="date.in" />
+		<Unit filename="david.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="david.h" />
+		<Unit filename="diana.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="diana.h" />
+		<Unit filename="filip.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="filip.h" />
 		<Unit filename="func.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="func.h" />
+		<Unit filename="iasmina.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="iasmina.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

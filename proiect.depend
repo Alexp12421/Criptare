@@ -55,12 +55,39 @@
 1575122684 source:e:\gitproject\criptare\func.c
 	<stdio.h>
 
-1575123171 source:e:\gitproject\criptare\main.c
+1575124223 source:e:\gitproject\criptare\main.c
 	<stdio.h>
 	"func.h"
 	"alex.h"
+	"iasmina.h"
+	"diana.h"
+	"david.h"
+	"filip.h"
 
 1575122684 e:\gitproject\criptare\func.h
 
 1575122756 e:\gitproject\criptare\alex.h
+
+1575123691 source:e:\gitproject\criptare\iasmina.c
+	<stdio.h>
+
+1575123691 e:\gitproject\criptare\iasmina.c
+	<stdio.h>
+
+1575123971 source:e:\gitproject\criptare\diana.c
+	<stdio.h>
+
+1575124118 source:e:\gitproject\criptare\david.c
+	<stdio.h>
+
+1575124114 source:e:\gitproject\criptare\filip.c
+	<stdio.h>
+
+1575123763 e:\gitproject\criptare\iasmina.h
+
+1575124013 e:\gitproject\criptare\diana.h
+
+1575124131 e:\gitproject\criptare\david.h
+
+1575124131 e:\gitproject\criptare\filip.h
 
