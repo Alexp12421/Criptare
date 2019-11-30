@@ -49,3 +49,18 @@
 1574423235 source:/home/student/ProiectC/casi.c
 	<stdio.h>
 
+1575122684 source:e:\gitproject\criptare\alex.c
+	<stdio.h>
+
+1575122684 source:e:\gitproject\criptare\func.c
+	<stdio.h>
+
+1575123171 source:e:\gitproject\criptare\main.c
+	<stdio.h>
+	"func.h"
+	"alex.h"
+
+1575122684 e:\gitproject\criptare\func.h
+
+1575122756 e:\gitproject\criptare\alex.h
+
