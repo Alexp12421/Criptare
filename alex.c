@@ -7,10 +7,12 @@ void Afisare(char c[10000])
 void Creep(char c[10000])
 {
     int i,n=strlen(c);
-    for(i=1;i<n;i++)
+    for(i=0;i<n-1;i++)
     {
-        c[i-1]=c[i-1]+(2*c[i-1]+1);
-        c[i]=c[i]-c[i-1];
+        if(i%3==0)
+            c[i]=c[i]-c[n-1];
+        else
+            c[i]=c[i]+'a';
 
     }
 
@@ -18,10 +20,12 @@ void Creep(char c[10000])
 void DeCreep(char c[10000])
 {
      int i,n=strlen(c);
-     for(i=n-1;i>=1;i--)
+     for(i=n-2;i>=0;i--)
      {
-          c[i]=c[i]+c[i-1];
-        c[i-1]=c[i-1]-(2*c[i-1]+1);
+         if(i%3==0)
+            c[i]=c[i]+c[n-1];
+         else
+            c[i]=c[i]-'a';
 
      }
 }

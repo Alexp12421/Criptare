@@ -33,7 +33,7 @@
 
 1575540407 e:\gitproject\criptare2\criptare2\david.h
 
-1575542223 source:e:\gitproject\criptare\alex.c
+1575563929 source:e:\gitproject\criptare\alex.c
 	<stdio.h>
 	<string.h>
 
@@ -46,10 +46,11 @@
 1575540879 source:e:\gitproject\criptare\filip.c
 	<stdio.h>
 
-1575540879 source:e:\gitproject\criptare\iasmina.c
+1575563516 source:e:\gitproject\criptare\iasmina.c
 	<stdio.h>
+	<string.h>
 
-1575542177 source:e:\gitproject\criptare\main.c
+1575563712 source:e:\gitproject\criptare\main.c
 	<stdio.h>
 	<stdlib.h>
 	"alex.h"
@@ -58,11 +59,11 @@
 	"filip.h"
 	"david.h"
 
-1575541941 e:\gitproject\criptare\alex.h
+1575563516 e:\gitproject\criptare\alex.h
 
 1575540879 e:\gitproject\criptare\diana.h
 
-1575540879 e:\gitproject\criptare\iasmina.h
+1575563516 e:\gitproject\criptare\iasmina.h
 
 1575540879 e:\gitproject\criptare\filip.h
 
