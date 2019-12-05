@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1575540105 source:e:\gitproject\criptare2\criptare2\alex.c
+	<stdio.h>
+
+1575540509 source:e:\gitproject\criptare2\criptare2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alex.h"
+	"diana.h"
+	"iasmina.h"
+	"filip.h"
+	"david.h"
+
+1575539941 e:\gitproject\criptare2\criptare2\alex.h
+
+1575540309 source:e:\gitproject\criptare2\criptare2\diana.c
+	<stdio.h>
+
+1575540309 e:\gitproject\criptare2\criptare2\diana.h
+
+1575540338 source:e:\gitproject\criptare2\criptare2\iasmina.c
+	<stdio.h>
+
+1575540408 source:e:\gitproject\criptare2\criptare2\david.c
+	<stdio.h>
+
+1575540509 source:e:\gitproject\criptare2\criptare2\filip.c
+	<stdio.h>
+
+1575540356 e:\gitproject\criptare2\criptare2\iasmina.h
+
+1575540509 e:\gitproject\criptare2\criptare2\filip.h
+
+1575540407 e:\gitproject\criptare2\criptare2\david.h
+
+1575540105 source:e:\gitproject\criptare\alex.c
+	<stdio.h>
+
+1575540408 source:e:\gitproject\criptare\david.c
+	<stdio.h>
+
+1575540309 source:e:\gitproject\criptare\diana.c
+	<stdio.h>
+
+1575540509 source:e:\gitproject\criptare\filip.c
+	<stdio.h>
+
+1575540338 source:e:\gitproject\criptare\iasmina.c
+	<stdio.h>
+
+1575540509 source:e:\gitproject\criptare\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alex.h"
+	"diana.h"
+	"iasmina.h"
+	"filip.h"
+	"david.h"
+
+1575539941 e:\gitproject\criptare\alex.h
+
+1575540309 e:\gitproject\criptare\diana.h
+
+1575540356 e:\gitproject\criptare\iasmina.h
+
+1575540509 e:\gitproject\criptare\filip.h
+
+1575540407 e:\gitproject\criptare\david.h
+

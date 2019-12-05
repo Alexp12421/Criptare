@@ -1,21 +1,12 @@
-#include<stdio.h>
-///this is how you include a file from the same project.
-///the h file contains all the functions you want to include
-#include "func.h"
+#include <stdio.h>
+#include <stdlib.h>
 #include "alex.h"
-#include "iasmina.h"
 #include "diana.h"
-#include "david.h"
+#include "iasmina.h"
 #include "filip.h"
-
-
-
+#include "david.h"
 int main()
 {
-
-
-
-
-
-return 0;
+fct(6);
+    return 0;
 }

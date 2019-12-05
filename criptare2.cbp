@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="proiect" />
+		<Option title="criptare2" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/proiect" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/criptare2" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/proiect" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/criptare2" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -35,7 +35,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="alex.h" />
-		<Unit filename="date.in" />
 		<Unit filename="david.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -48,10 +47,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="filip.h" />
-		<Unit filename="func.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="func.h" />
 		<Unit filename="iasmina.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -61,8 +56,9 @@
 		</Unit>
 		<Extensions>
 			<code_completion />
-			<debugger />
 			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
