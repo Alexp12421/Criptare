@@ -68,3 +68,39 @@
 
 1575540879 e:\gitproject\criptare\david.h
 
+1575542265 source:c:\users\yasmina\documents\downloads\criptare-master\alex.c
+	<stdio.h>
+	<string.h>
+
+1575542265 source:c:\users\yasmina\documents\downloads\criptare-master\david.c
+	<stdio.h>
+
+1575542265 source:c:\users\yasmina\documents\downloads\criptare-master\diana.c
+	<stdio.h>
+
+1575542265 source:c:\users\yasmina\documents\downloads\criptare-master\filip.c
+	<stdio.h>
+
+1575598348 source:c:\users\yasmina\documents\downloads\criptare-master\iasmina.c
+	<stdio.h>
+	<string.h>
+
+1575598676 source:c:\users\yasmina\documents\downloads\criptare-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alex.h"
+	"diana.h"
+	"iasmina.h"
+	"filip.h"
+	"david.h"
+
+1575598859 c:\users\yasmina\documents\downloads\criptare-master\alex.h
+
+1575542265 c:\users\yasmina\documents\downloads\criptare-master\diana.h
+
+1575597697 c:\users\yasmina\documents\downloads\criptare-master\iasmina.h
+
+1575542265 c:\users\yasmina\documents\downloads\criptare-master\filip.h
+
+1575542265 c:\users\yasmina\documents\downloads\criptare-master\david.h
+
