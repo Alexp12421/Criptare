@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 #include "alex.h"
 #include "diana.h"
 #include "iasmina.h"
@@ -14,5 +13,16 @@ int main()
     fgets(cod,9999,stdin);
     Afisare(cod);
 
+    done(cod);
+    Creep(cod);
+    criptare(cod);
+
+    Afisare(cod);
+
+    decriptare(cod);
+    DeCreep(cod);
+    undone(cod);
+
+    Afisare(cod);
     return 0;
 }

@@ -2,7 +2,7 @@
 #include <string.h>
 void Afisare(char c[10000])
 {
-    printf("Codul este: \n%s",c);
+    printf("\nCodul este: \n%s",c);
 }
 void Creep(char c[10000])
 {

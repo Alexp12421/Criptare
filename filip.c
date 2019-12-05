@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stream.h>
 #include <stdlib.h>
 void done(char sir[])
 {
