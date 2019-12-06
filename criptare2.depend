@@ -2,6 +2,8 @@
 1575540105 source:e:\gitproject\criptare2\criptare2\alex.c
 	<stdio.h>
 
+1575570364 
+
 1575540509 source:e:\gitproject\criptare2\criptare2\main.c
 	<stdio.h>
 	<stdlib.h>
@@ -143,4 +145,44 @@
 1575570298 c:\users\chismorita\desktop\fuckulta\info\github\criptare\filip.h
 
 1575567822 c:\users\chismorita\desktop\fuckulta\info\github\criptare\david.h
+
+1575628021 source:/home/student/Criptare/alex.c
+	<stdio.h>
+	<string.h>
+
+1575628021 source:/home/student/Criptare/diana.c
+	<stdio.h>
+	<string.h>
+
+1575628021 source:/home/student/Criptare/filip.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1575628021 source:/home/student/Criptare/iasmina.c
+	<stdio.h>
+	<string.h>
+
+1575628021 source:/home/student/Criptare/main.c
+	<stdio.h>
+	<stdlib.h>
+	"alex.h"
+	"diana.h"
+	"iasmina.h"
+	"filip.h"
+	"david.h"
+
+1575628021 /home/student/Criptare/alex.h
+
+1575628021 /home/student/Criptare/diana.h
+
+1575628021 /home/student/Criptare/iasmina.h
+
+1575628021 /home/student/Criptare/filip.h
+
+1575628177 /home/student/Criptare/david.h
+
+1575628175 source:/home/student/Criptare/david.c
+	<stdio.h>
+	<string.h>
 
