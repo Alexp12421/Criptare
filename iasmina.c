@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <string.h>
 
 void criptare (char s[101])
 {
@@ -12,11 +10,11 @@ void criptare (char s[101])
             s[i]=s[i]-1;
 
     }
-    strrev(s);
+    //strrev(s);
 }
 void decriptare (char s[101])
 {
-    strrev(s);
+    //strrev(s);
 
     int i;
     for(i=0;i<strlen(s);i++)

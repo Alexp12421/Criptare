@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <string.h>
+
 void stele1(char s[])
 {
   int i,n=strlen(s);
