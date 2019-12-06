@@ -40,18 +40,20 @@
 1575540879 source:e:\gitproject\criptare\david.c
 	<stdio.h>
 
-1575540879 source:e:\gitproject\criptare\diana.c
+1575570669 source:e:\gitproject\criptare\diana.c
 	<stdio.h>
+	<string.h>
 
-1575566676 source:e:\gitproject\criptare\filip.c
+1575573575 source:e:\gitproject\criptare\filip.c
 	<stdio.h>
+	<string.h>
 	<stdlib.h>
 
 1575563516 source:e:\gitproject\criptare\iasmina.c
 	<stdio.h>
 	<string.h>
 
-1575568153 source:e:\gitproject\criptare\main.c
+1575573817 source:e:\gitproject\criptare\main.c
 	<stdio.h>
 	<stdlib.h>
 	"alex.h"
@@ -62,7 +64,7 @@
 
 1575563516 e:\gitproject\criptare\alex.h
 
-1575540879 e:\gitproject\criptare\diana.h
+1575570669 e:\gitproject\criptare\diana.h
 
 1575563516 e:\gitproject\criptare\iasmina.h
 

@@ -17,7 +17,9 @@ int main()
     Creep(cod);
     criptare(cod);
     criptare10(cod);
+
     Afisare(cod);
+
     decriptare10(cod);
     decriptare(cod);
     DeCreep(cod);
