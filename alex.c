@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <string.h>
+
 void Afisare(char c[10000])
 {
     printf("\nCodul este: \n%s",c);

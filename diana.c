@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include<string.h>
+
 void criptare10(char s[101])
 {
     int i;
